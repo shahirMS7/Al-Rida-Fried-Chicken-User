@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211558308047",
+    "project_id": "al-ridha-a22da",
+    "storage_bucket": "al-ridha-a22da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211558308047:android:4e5f21fc53bd2dde5f7fba",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJE6BUTwfgRMK2G1IsqM5TrIU9hmafZGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211558308047:android:151ddcc1632a035f5f7fba",
+        "android_client_info": {
+          "package_name": "com.example.alridafrieds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJE6BUTwfgRMK2G1IsqM5TrIU9hmafZGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
